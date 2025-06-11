@@ -10,6 +10,7 @@
 ## Vgrid DGGS
 - [vgrid](https://github.com/vopengeos/vgrid)
 - [vgridjs](https://github.com/vopengeos/vgridjs)
+- [vgrid-maplibre](https://github.com/vopengeos/vgrid-maplibre)
 - [vgrid plugin for QGIS](https://github.com/vopengeos/vgridtools)
 
 ## Vector Tiles
