@@ -34,5 +34,3 @@
 ## Resources
 - [BecaGIS Resources for QGIS](https://github.com/opengeoshub/BecaGIS-Resources)
 - [QGIS Training](https://github.com/opengeoshub/QGIS-Training)
-
-
