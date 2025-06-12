@@ -1,10 +1,9 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/thangqd/vgridtools/main/images/readme/dggs.png">
+</p>
+<p align="center">
   <strong >Open Geospatial Hub <a href="https://github.com/opengeoshub">opengeoshub</a></strong> <br>
   <i>Open source geospatial tools and open data</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thangqd/vgridtools/main/images/readme/dggs.png">
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=opengeoshub.opengeoshub)
