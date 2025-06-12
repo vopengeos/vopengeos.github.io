@@ -8,7 +8,6 @@
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=opengeoshub.opengeoshub)
-[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/thangqd)
 
 ## Vgrid DGGS
 - [vgrid](https://github.com/opengeoshub/vgrid), [vgrid docs](https://vgrid.gishub.vn)
