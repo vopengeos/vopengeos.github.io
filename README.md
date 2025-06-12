@@ -7,9 +7,12 @@
   <img src="https://raw.githubusercontent.com/thangqd/vgridtools/main/images/readme/dggs.png">
 </p>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=opengeoshub.opengeoshub)
+[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/thangqd)
+
 ## Vgrid DGGS
-- [vgrid](https://github.com/opengeoshub/vgrid) | [vgrid docs](https://vgrid.gishub.vn)
-- [vgridjs](https://github.com/opengeoshub/vgridjs) | [vgridjs docs](https://vgridjs.gishub.vn) 
+- [vgrid](https://github.com/opengeoshub/vgrid), [vgrid docs](https://vgrid.gishub.vn)
+- [vgridjs](https://github.com/opengeoshub/vgridjs), [vgridjs docs](https://vgridjs.gishub.vn) 
 - [vgrid-maplibre](https://github.com/opengeoshub/vgrid-maplibre)
 - [vgrid plugin for QGIS](https://github.com/opengeoshub/vgridtools)
 - [vgrid Homepage](https://vgrid.vn)
