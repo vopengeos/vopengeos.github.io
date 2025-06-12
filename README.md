@@ -8,6 +8,7 @@
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=opengeoshub.opengeoshub)
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Vgrid DGGS
 - [vgrid](https://github.com/opengeoshub/vgrid), [vgrid docs](https://vgrid.gishub.vn)
@@ -38,3 +39,4 @@
 ## Resources
 - [BecaGIS Resources for QGIS](https://github.com/opengeoshub/BecaGIS-Resources)
 - [QGIS Training](https://github.com/opengeoshub/QGIS-Training)
+
