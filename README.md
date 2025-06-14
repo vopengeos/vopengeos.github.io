@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <strong ><a href="https://github.com/opengeoshub">Open Geospatial Hub</a></strong> <br>
-  <i>Open source geospatial tools and open data</i>
+  <i>Open source geospatial software and open data</i>
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=opengeoshub.opengeoshub)
