@@ -13,11 +13,18 @@
   
 [Open Geospatial Hub](https://gishub.vn) emphasizes the promotion and implementation of the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) principles.
 
-[FAIR](https://www.go-fair.org/fair-principles/) | [CARE](https://www.gida-global.org/care)
-**F** = Findable | **C** = Collective Benefit 
-**A** = Accessible | **A** = Authority to Control
-**I** = Interoperable | **R** = Responsibility
-**R** = Reusable | **E** = Ethics
+[FAIR](https://www.go-fair.org/fair-principles/) 
+- **F** = Findable
+- **A** = Accessible
+- **I** = Interoperable
+- **R** = Reusable
+
+[CARE](https://www.gida-global.org/care)
+- **C** = Collective Benefit 
+- **A** = Authority to Control
+- **R** = Responsibility
+- **E** = Ethics
+- **E** = Ethics
 
 [Open Geospatial Hub](https://gishub.vn) projects: 
 
