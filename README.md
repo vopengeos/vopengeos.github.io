@@ -9,6 +9,18 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=opengeoshub.opengeoshub)
 [![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[Open Geospatial Hub](https://gishub.vn) is an initiative dedicated to the development and dissemination of geospatial open-source projects and open data. 
+  
+[Open Geospatial Hub](https://gishub.vn) emphasizes the promotion and implementation of the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) principles.
+
+[FAIR](https://www.go-fair.org/fair-principles/) | [CARE](https://www.gida-global.org/care)
+**F** = Findable | **C** = Collective Benefit 
+**A** = Accessible | **A** = Authority to Control
+**I** = Interoperable | **R** = Responsibility
+**R** = Reusable | **E** = Ethics
+
+[Open Geospatial Hub](https://gishub.vn) projects: 
+
 ## Vgrid DGGS
 - [vgrid](https://github.com/opengeoshub/vgrid), [vgrid on PYPI](https://pypi.org/project/vgrid/), [vgrid docs](https://vgrid.gishub.vn)
 - [vgridjs](https://github.com/opengeoshub/vgridjs), [vgridjs on NPM](https://www.npmjs.com/package/vgridjs), [vgridjs docs](https://vgridjs.gishub.vn) 
