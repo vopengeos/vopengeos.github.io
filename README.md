@@ -48,6 +48,7 @@
 
 
 ## Resources
-- [BecaGIS Resources for QGIS](https://github.com/opengeoshub/BecaGIS-Resources)
 - [QGIS Training](https://github.com/opengeoshub/QGIS-Training)
+- [GIS curriculum](https://github.com/opengeoshub/GIS-curriculum)
+- [BecaGIS Resources for QGIS](https://github.com/opengeoshub/BecaGIS-Resources)
 
