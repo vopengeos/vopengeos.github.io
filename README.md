@@ -24,7 +24,6 @@
 - **A** = Authority to Control
 - **R** = Responsibility
 - **E** = Ethics
-- **E** = Ethics
 
 [Open Geospatial Hub](https://gishub.vn) projects: 
 
